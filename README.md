@@ -8,6 +8,8 @@
 
       - Tengo 20 años
       
+      - Vivo en pacheco, tengo la UTN de ahi a 1 km pero igualmente voy a la de campana (No preguntar por qué)
+      
       - Trabajo arreglando PCs en casa, me gusta mucho la programacion, 
         aprendi Python y JS de forma autodidacta.
 	

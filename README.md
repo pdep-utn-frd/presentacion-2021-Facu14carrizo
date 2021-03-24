@@ -5,13 +5,19 @@
 • **Numero de legajo:** 11735
 # - - - - - - - - - - - - - - - - - - -
 ### **• SOBRE MI •**
-			- Tengo **20** años
+
+      - Tengo 20 años
+      
       - Trabajo arreglando PCs en casa, me gusta mucho la programacion, 
-        aprendi Python y JS de forma autodidacta
-      - Ahora mismo estoy aprendiendo sobre base de dato y objetos
-      - Me gusta salir a correr diariamente y hacer cardio
-      - Adicto a las peliculas de Sci-Fi--
-      - Amante de las pastas y la musica electronica
+        aprendi Python y JS de forma autodidacta.
+	
+      - Ahora mismo estoy aprendiendo sobre base de dato y objetos.
+      
+      - Me gusta salir a correr diariamente y hacer cardio.
+      
+      - Adicto a las peliculas de Sci-Fi.
+      
+      - Amante de las pastas y la musica electronica.
       
  ## Tengo una perra salchica :) ... Se llama *Daisy*
 
